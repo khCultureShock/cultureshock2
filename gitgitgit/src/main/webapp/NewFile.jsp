@@ -7,6 +7,6 @@
 <title>test</title>
 </head>
 <body>
-test
+test입니다.
 </body>
 </html>
